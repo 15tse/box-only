@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.section-1{
+  
+    border-style: solid;
+    border-color: #847e7e;
+    background-color: rgb(16, 238, 164);
+    width: 60%;
+    border-width: 5px;
+    font: 100;
+}
+.section-2{
+    background-color: bisque;
+    border-style:  solid;
+    width: 80%;
+    border-width: 5px;
+    border-color: blueviolet;
+}
+.section-3{
+    background-color: brown;
+    border-style: solid;
+    background-color: 90%;
+    border-width: 5px;
+    border-color: blue;
+}
